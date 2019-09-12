@@ -13,7 +13,6 @@ public class MyTest {
         int g = 8;
         //MyLinkList ll = new MyLinkList();
         MyArrayList ll = new MyArrayList();
-        ArrayList
         ll.add(a);
         ll.add(b);
         ll.add(c);

@@ -1,6 +1,6 @@
 package Task;
 
-public class MyArrayList implements MyList{
+public class MyArrayList implements MyList {
     ArrayBlock first;
     ArrayBlock last;
     int count;
